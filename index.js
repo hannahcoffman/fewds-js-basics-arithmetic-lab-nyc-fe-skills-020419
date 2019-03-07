@@ -12,5 +12,5 @@ let ageIsValid = Number.isInteger(currentAge)
 let randomNumber = Math.random()
 let randomInteger = Math.flooredRandomInteger()
 const flooredRandomInteger = Math.floor(randomNumber);
-
+let random
 
